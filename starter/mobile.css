@@ -48,4 +48,14 @@
     .thirdsection-rightdiv {
         margin-bottom: 30px;
     }
+
+    /* footer section starts here */
+    footer {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .icon-holder {
+        margin-top: 10px;
+    }
 }
